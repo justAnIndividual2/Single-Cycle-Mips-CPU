@@ -1,0 +1,108 @@
+{E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv} {2 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Control
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(31): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(44): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(57): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(70): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(83): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(96): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(109): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(122): Carriage return (0x0D) is not followed by a newline (0x0A).
+** Warning: (vlog-2083) E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Control.sv(135): Carriage return (0x0D) is not followed by a newline (0x0A).
+-- Compiling module Control_tb
+
+Top level modules:
+	Control_tb
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/SignExtend.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/SignExtend.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module SignExtend
+-- Compiling module SignExtend_tb
+
+Top level modules:
+	SignExtend_tb
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Instruction_Memory.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Instruction_Memory.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module InstructionMemory
+-- Compiling module tb_Instruction_Memory
+
+Top level modules:
+	tb_Instruction_Memory
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/DataMemory.sv} {2 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/DataMemory.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DataMemory
+-- Compiling module DataMemory_tb
+** Warning: E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/DataMemory.sv(58): (vlog-2275) 'DataMemory_tb' already exists and will be overwritten.
+-- Compiling module DataMemory_tb
+
+Top level modules:
+	DataMemory_tb
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/ALUControl.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/ALUControl.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALUControl
+-- Compiling module ALUControl_tb
+
+Top level modules:
+	ALUControl_tb
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Shiftleft2.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Shiftleft2.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Shiftleft2
+-- Compiling module Shiftleft2_tb
+
+Top level modules:
+	Shiftleft2_tb
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/PC.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/PC.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module PC
+-- Compiling module tb_PC
+
+Top level modules:
+	tb_PC
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Main.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Main.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Main
+-- Compiling module Main_tb
+
+Top level modules:
+	Main_tb
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Add.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Add.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Add
+-- Compiling module tb_Add
+
+Top level modules:
+	tb_Add
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Mux.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/Mux.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mux
+-- Compiling module Mux_tb
+
+Top level modules:
+	Mux_tb
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/ALU.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/ALU.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALU
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/RegisterFile.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/Computer Engineering/Term 4/Lab Compure Architechture/5_Assignment/RegisterFile.sv}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module RegisterFile
+-- Compiling module RegisterFile_tb
+
+Top level modules:
+	RegisterFile_tb
+
+} {} {}}
